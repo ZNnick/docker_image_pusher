@@ -1,5 +1,6 @@
 nginx
 ludeeus/container:integration-debian
 sonatype/nexus3
+jc21/nginx-proxy-manager
 #支持指定架构
 --platform=linux/arm64 homeassistant/home-assistant:rc
